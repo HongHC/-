@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/AbstractFactory/AbstactFactoryPatternDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/AbstractFactory/AbstractFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/AbstractFactory/Blue.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/AbstractFactory/Circle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/AbstractFactory/Color.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/AbstractFactory/ColorFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/AbstractFactory/FactoryProducer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/AbstractFactory/Green.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/AbstractFactory/Rectangle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/AbstractFactory/Red.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/AbstractFactory/Shape.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/AbstractFactory/ShapeFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/AbstractFactory/Square.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/Builder/Bottle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/Builder/Item.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/Builder/Packing.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/Builder/Wrapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/Factory/Circle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/Factory/FactoryPatternDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/Factory/Rectangle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/Factory/Shape.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/Factory/ShapeFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/Factory/Square.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/Singleton/SingleObject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/code/DesignMode/Singleton/SinglePatternDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/java/Reflect/FanSheTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhc/java/Reflect/Student.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

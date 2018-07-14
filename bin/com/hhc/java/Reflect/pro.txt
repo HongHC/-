@@ -1,0 +1,2 @@
+className = com.hhc.java.Reflect.Student
+methodName = show
